@@ -1,0 +1,29 @@
+{
+  "name": "ShinkleGunSmithing1",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000S\u0000h\u0000i\u0000n\u0000k\u0000l\u0000e\u0000G\u0000u\u0000n\u0000S\u0000m\u0000i\u0000t\u0000h\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hshinkle/ShinkleGunSmith.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hshinkle/ShinkleGunSmith/issues"
+  },
+  "homepage": "https://github.com/Hshinkle/ShinkleGunSmith#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-promise-router": "^4.1.0",
+    "nodemon": "^2.0.12",
+    "uuid": "^8.3.2"
+  }
+}
